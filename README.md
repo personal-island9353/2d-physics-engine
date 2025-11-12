@@ -9,7 +9,8 @@ Code to work along the Creating a 2D Physics Engine The Easy Way book from Marce
 # TODO
 
 * Setup
-    * eslint
-    * prettier
-    * husky
-    * typescript
+  * actions
+  * eslint
+  * prettier
+  * husky
+  * typescript
