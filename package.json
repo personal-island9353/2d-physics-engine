@@ -1,0 +1,21 @@
+{
+  "name": "2d-physics-engine",
+  "version": "1.0.0",
+  "description": "Code to work along the Creating a 2D Physics Engine The Easy Way book from Marcel Kießlich",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/personal-island9353/2d-physics-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/personal-island9353/2d-physics-engine/issues"
+  },
+  "homepage": "https://github.com/personal-island9353/2d-physics-engine#readme"
+}
